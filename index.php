@@ -1,1 +1,1 @@
-<?php include_once(“Summoner.html”); ?>
+<?php include_once(“index.html”); ?>
